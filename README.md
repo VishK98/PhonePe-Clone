@@ -20,7 +20,7 @@ UI clone of PhonePe. The Popular payment app in india.
 ## Screenshots
 
 <p align="center">
-  <img src="images/screenshot.png">
+  <img src="https://github.com/VishK98/PhonePe-Clone/blob/main/assets/GitHub%20assets/Screenshot%20(28).png">
 </p>
 
 
