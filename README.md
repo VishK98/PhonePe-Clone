@@ -19,9 +19,6 @@ UI clone of PhonePe. The Popular payment app in india.
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://github.com/Jay-Tillu/PhonePe-UI-Clone/blob/master/assets/GitHub%20assets/phone%20pe%20gif.gif?raw=true">
-</p>
 
 ## Plugins
 
